@@ -17,6 +17,7 @@
 1. We imported our Data into Tableau to visualize it.
 2. Using different charts, plots, and maps we dove into our data from a different angle to understand it better
 3. I chose to make my dashboard using the visuals that best explained the patterns in houses valuing less or more than 650K
+---
 **PPT**
 1. A simple PPT presentation that briefly explains goals, steps, decisions, and interpretation.
 
