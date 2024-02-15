@@ -11,13 +11,13 @@
 3. Finally I added code, implementing a RandomForestRegression model to help determine which features were most important in predicting which houses are over 650K in value
 ---
 **MySQL**
--We used queries to answer questions on the data through looking at it as a table, this was straightforward and mostly relied on aggregations and sorting the results to answer said questions
+1. We used queries to answer questions on the data through looking at it as a table, this was straightforward and mostly relied on aggregations and sorting the results to answer said questions
 ---
 **Tableau**
 1. We imported our Data into Tableau to visualize it.
 2. Using different charts, plots, and maps we dove into our data from a different angle to understand it better
 3. I chose to make my dashboard using the visuals that best explained the patterns in houses valuing less or more than 650K
 **PPT**
--A simple PPT presentation that briefly explains goals, steps, decisions, and interpretation.
+1. A simple PPT presentation that briefly explains goals, steps, decisions, and interpretation.
 
    
